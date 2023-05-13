@@ -10,8 +10,9 @@ Django site for **????**
 
 ### About
 - [x] - **project is ready for 25%** :zap:
-- [ ] - **project is ready for 50%** 
-- [ ] - **project of ready for 75%** 
+- [x] - **project is ready for 50%** ⚡
+- [ ] - **project is ready for 75%** 
+- [ ] - **project is ready for 100%**
 
 ### Screenshots
 
