@@ -1,6 +1,6 @@
 # 8Q1S
 
-Django site for **????**
+Django site for **SDU clubs**
 
 ### Members
 - Mukangali Zhanibek 210103153@stu.sdu.edu.kz
@@ -13,6 +13,19 @@ Django site for **????**
 - [x] - **project is ready for 50%** ⚡
 - [ ] - **project is ready for 75%** 
 - [ ] - **project is ready for 100%**
+
+This solution would be so helpful to improve automatization with getting new members for clubs. This site is like hub/home place with list of clubs to where new students could set a message for joining to club 
+What problems solves our site?
+
+- easy way to look for members
+  - new student can easily send a portfolio
+  - easy to sort 
+  - no time consuming
+ 
+ 
+- easy way to store all info
+- future potential to be main club's site in SDU
+
 
 ### Screenshots
 
