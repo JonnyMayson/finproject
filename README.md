@@ -11,8 +11,8 @@ Django site for **SDU clubs**
 ### About
 - [x] - **project is ready for 25%** :zap:
 - [x] - **project is ready for 50%** ⚡
-- [x] - **project is ready for 75%** 
-- [x] - **project is ready for 100%**
+- [x] - **project is ready for 75%** ⚡
+- [x] - **project is ready for 100%** ⚡
 
 This solution would be so helpful to improve automatization with getting new members for clubs. This site is like hub/home place with list of clubs to where new students could set a message for joining to club 
 What problems solves our site?
