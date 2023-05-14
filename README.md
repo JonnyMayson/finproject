@@ -29,6 +29,8 @@ What problems solves our site?
 
 ### Screenshots
 
+![main page of site number 1 screenshot](https://media.discordapp.net/attachments/905075566699483266/1107394910019141672/image.png?width=1365&height=662)
+
 ### Presentation link
 
 
