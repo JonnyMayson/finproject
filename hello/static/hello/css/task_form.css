@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(239, 241, 245);
+  }
+.header{
+    display:flex;
+    height: 100px;
+    margin-top: -0.5%;
+    
+   
+}
+.club {
+       margin-top: -5.3%;
+       margin-left: 20%;
+      
+
+}
+.logo{
+   
+    margin-top: 2%;
+    margin-left: 5%;
+}
+.club p{
+    font-size:68px;
+    letter-spacing: 10px;
+    color: rgb(160, 14, 14);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.form{
+    margin-left: 30%;
+}
